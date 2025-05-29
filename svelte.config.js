@@ -11,7 +11,7 @@ const config = {
       fallback: 'index.html'
     }),
     paths: {
-      base: ''
+      base: '/pokemon-portfolio'
     },
     prerender: {
       entries: ['*']
