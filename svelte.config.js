@@ -14,7 +14,7 @@ const config = {
       base: '/pokemon-portfolio'
     },
     prerender: {
-      entries: []
+      entries: ['*']
     }
   }
 };
