@@ -8,7 +8,7 @@
 
 <header class="site-header">
 	<nav class="main-nav">
-        <img src="/images/pokemon-logo.png" alt="Logo" class="site-logo" />
+        <img src="/pokemon-portfolio/images/pokemon-logo.png" alt="Logo" class="site-logo" />
 		{#each nav as item}
 			<a href={item.href} class="nav-link {item.color}">
 				<span>{item.name}</span>

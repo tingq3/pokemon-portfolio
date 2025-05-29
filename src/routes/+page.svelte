@@ -9,9 +9,9 @@
 
     <section class="card-vs-intro">
         <div class="card-vs-wrapper">
-            <img src="/images/Coding.png" alt="Coding Card" class="vs-card" />
+            <img src="/pokemon-portfolio/images/Coding.png" alt="Coding Card" class="vs-card" />
             <div class="vs-label">VS</div>
-            <img src="/images/Sleep.png" alt="Sleep Card" class="vs-card" />
+            <img src="/pokemon-portfolio/images/Sleep.png" alt="Sleep Card" class="vs-card" />
         </div>
     </section>
 
@@ -58,14 +58,14 @@
         <h2 class="section-heading">Hobbies</h2>
         <Hobby 
             title="Bouldering"
-            image="/images/bouldering.jpg"
+            image="/pokemon-portfolio/images/bouldering.jpg"
             description="I’ve only been bouldering for a few months, but it’s already one of my favorite things to do. I’m still a beginner, but trying new routes and falling off the wall has become part of my weekly routine. It’s fun, frustrating, and super satisfying when I finally reach the top — way better than sitting at a desk all day."
             theme="red"
         />
 
         <Hobby 
             title="Guitar"
-            image="/images/guitar.jpg"
+            image="/pokemon-portfolio/images/guitar.jpg"
             description="I started learning guitar about 2 years ago. I mostly play fingerstyle and simple songs I like. I’m not amazing at it, but it’s a fun way to relax and take a break from coding or studying. Sometimes I just play random stuff and zone out — it’s chill."
             theme="blue"
             flip
